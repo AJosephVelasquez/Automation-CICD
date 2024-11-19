@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="AlainVelasquez.TestComponents.Listeners" />
+	</listeners>
+
+	<test thread-count="5" name="SubmitOrder">
+		<classes>
+			<class name="AlainVelasquez.Tests.SubmitOrderTest" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="Error Validation Test">
+		<classes>
+			<class name="AlainVelasquez.Tests.ErrorValidation" />
+		</classes>
+	</test>
+</suite> 
