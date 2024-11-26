@@ -2,19 +2,19 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-18T17:04:03 CST" name="Surefire suite" finished-at="2024-11-18T17:04:41 CST" duration-ms="37741">
+  <suite started-at="2024-11-21T14:55:15 CST" name="Surefire suite" finished-at="2024-11-21T14:55:52 CST" duration-ms="36439">
     <groups>
       <group name="Purchase">
         <method signature="SubmitOrderTest.submitOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" name="submitOrder" class="AlainVelasquez.Tests.SubmitOrderTest"/>
       </group> <!-- Purchase -->
     </groups>
-    <test started-at="2024-11-18T17:04:03 CST" name="Surefire test" finished-at="2024-11-18T17:04:41 CST" duration-ms="37741">
+    <test started-at="2024-11-21T14:55:15 CST" name="Surefire test" finished-at="2024-11-21T14:55:52 CST" duration-ms="36439">
       <class name="AlainVelasquez.Tests.SubmitOrderTest">
-        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:03 CST" name="launchPage" finished-at="2024-11-18T17:04:10 CST" duration-ms="6926" status="PASS">
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:15 CST" name="launchPage" finished-at="2024-11-21T14:55:21 CST" duration-ms="6107" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchPage -->
-        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:10 CST" name="submitOrder" data-provider="getData" finished-at="2024-11-18T17:04:17 CST" duration-ms="6177" status="PASS">
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:21 CST" name="submitOrder" data-provider="getData" finished-at="2024-11-21T14:55:28 CST" duration-ms="6326" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -25,15 +25,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitOrder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:17 CST" name="tearDown" finished-at="2024-11-18T17:04:17 CST" duration-ms="153" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:28 CST" name="tearDown" finished-at="2024-11-21T14:55:28 CST" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:17 CST" name="launchPage" finished-at="2024-11-18T17:04:22 CST" duration-ms="5188" status="PASS">
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:28 CST" name="launchPage" finished-at="2024-11-21T14:55:32 CST" duration-ms="4626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchPage -->
-        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:22 CST" name="submitOrder" data-provider="getData" finished-at="2024-11-18T17:04:28 CST" duration-ms="6243" status="PASS">
+        <test-method signature="submitOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:32 CST" name="submitOrder" data-provider="getData" finished-at="2024-11-21T14:55:39 CST" duration-ms="6783" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,15 +44,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submitOrder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:28 CST" name="tearDown" finished-at="2024-11-18T17:04:28 CST" duration-ms="91" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:39 CST" name="tearDown" finished-at="2024-11-21T14:55:39 CST" duration-ms="101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:28 CST" name="launchPage" finished-at="2024-11-18T17:04:34 CST" duration-ms="5564" status="PASS">
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:39 CST" name="launchPage" finished-at="2024-11-21T14:55:44 CST" duration-ms="5082" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchPage -->
-        <test-method signature="validateOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:34 CST" name="validateOrder" data-provider="getData" finished-at="2024-11-18T17:04:35 CST" depends-on-methods="AlainVelasquez.Tests.SubmitOrderTest.submitOrder" duration-ms="829" status="PASS">
+        <test-method signature="validateOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:44 CST" name="validateOrder" data-provider="getData" finished-at="2024-11-21T14:55:45 CST" depends-on-methods="AlainVelasquez.Tests.SubmitOrderTest.submitOrder" duration-ms="1017" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -63,15 +63,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateOrder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:35 CST" name="tearDown" finished-at="2024-11-18T17:04:35 CST" duration-ms="67" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:45 CST" name="tearDown" finished-at="2024-11-21T14:55:46 CST" duration-ms="60" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:35 CST" name="launchPage" finished-at="2024-11-18T17:04:40 CST" duration-ms="5354" status="PASS">
+        <test-method is-config="true" signature="launchPage()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:46 CST" name="launchPage" finished-at="2024-11-21T14:55:50 CST" duration-ms="4908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchPage -->
-        <test-method signature="validateOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:40 CST" name="validateOrder" data-provider="getData" finished-at="2024-11-18T17:04:41 CST" depends-on-methods="AlainVelasquez.Tests.SubmitOrderTest.submitOrder" duration-ms="854" status="PASS">
+        <test-method signature="validateOrder(java.util.HashMap)[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:50 CST" name="validateOrder" data-provider="getData" finished-at="2024-11-21T14:55:51 CST" depends-on-methods="AlainVelasquez.Tests.SubmitOrderTest.submitOrder" duration-ms="1008" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateOrder -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-18T17:04:41 CST" name="tearDown" finished-at="2024-11-18T17:04:41 CST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AlainVelasquez.Tests.SubmitOrderTest@36c88a32]" started-at="2024-11-21T14:55:51 CST" name="tearDown" finished-at="2024-11-21T14:55:52 CST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
